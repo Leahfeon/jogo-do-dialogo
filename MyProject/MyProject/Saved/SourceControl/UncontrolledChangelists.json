@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/BP_LV_NPC.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/AC_DialogBase.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/Enum_DialogueState.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/WB_Dialogue.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/Blueprints/342200__christopherderp__videogame-menu-button-click.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/UI/W_Dialogue.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/UI/W_DialogueOption.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/BPI_Interactable.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/FF/YLL34PTHGBPOATLCABHPDS.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/BP_NPC_Base.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/BP_NPC_Livreiro.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/AC_Dialogue_Livreiro.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/AC_Dialogue_Base.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/IL/VSV0LZOIQSQ7TU4QXEPWAY.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/NPC.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/LV_NPC.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/LV_Dialog.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/WB_Dialog.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/BP_LV_NPC.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/BP_LV_Dialog.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/Enum_DialogState.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/WB_Dialogue.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialog/Enum_DialogueState.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/BP_LV_Dialog.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/BI/ETYR75W0877TZGYN2FDAOW.uasset",
+				"C:/Users/paula/OneDrive/Documentos/Unreal Projects/MyProject/Content/Dialogue/BPI_Interface.uasset"
+			]
+		}
+	]
+}
